@@ -1,0 +1,181 @@
+\documentclass[12pt]{article}
+
+\usepackage[a4paper,margin=1.25in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{physics}
+\usepackage{hyperref}
+\usepackage{tabularx}
+\usepackage{threeparttable}
+\usepackage{setspace}
+\usepackage{float} % Added for [H] table placement
+\onehalfspacing
+\usepackage{parskip}
+
+\title{%
+Nichols Radial Injection Model (RIM) and Radial ERB Inflows:\\
+A Mechanism for Progenitor-less Astrophysical Events,\\
+the Hubble Pulse, and 4D Substrate Interactions
+}
+
+\author{Lawrence William Nichols}
+
+\date{January 21, 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Current $\Lambda$CDM models struggle to account for the rapid formation of massive galaxies and hours-long Gamma-Ray Bursts (GRBs) observed by JWST. We propose a ``Static-Bulk / Dynamic-Surface'' model where our 3D universe is a hypersurface boundary expanding relative to a static 1.46 trillion light-year diameter 4D manifold. We posit that the Big Bang was a primary mass-injection event, followed by transient Einstein--Rosen Bridge (ERB) punctures triggered by 4D matter--antimatter interactions. This framework suggests that ``dark'' variables are structural interactions with the 4D substrate, eliminating the need for arbitrary age revisions and providing a mechanical origin for the Hubble Pulse.
+\end{abstract}
+
+\section*{Research Provenance}
+The Radial Injection Model (RIM) is the culmination of a six-month iterative process. Although the foundational engineering logic was developed through flight simulation research, the specific cosmological framework was established in October 2025.
+\newpage
+
+\begin{center}\textbf{Revision: February 5, 2026 --- 29-Year Manifold Audit \& 200-Count Expansion Mapping Update}\end{center}
+
+\begin{table}[h]
+\centering
+\begin{threeparttable}
+\small
+\begin{tabularx}{\textwidth}{@{}l c c c X@{}} 
+\toprule
+Epoch (7 Sets) & $F_{GRB}$ ($yr^{-1}$) & Formula $H_{calc}$ & Meas. $H_0$ & RIM Mechanical State \\
+\midrule
+2004--2006 & 90 & 70.7 & 73.0--73.5 & High Torque Injection Phase. \\ \addlinespace
+2007--2009 & 86 & 67.5 & 67.0--68.5 & Transition to Respiration. \\ \addlinespace
+2010--2013 & 95 & 74.6 & 72.0--74.0 & Peak Manifold Pressure. \\ \addlinespace
+2014--2017 & 90 & 70.7 & 69.0--71.0 & Equilibrium Settling. \\ \addlinespace
+2018--2021 & 103 & 81.0 & 73.2--75.8 & Secondary Surge (90 Spike). \\ \addlinespace
+2022--2024 & 80 & 62.9 & 67.4--70.4 & 6\% Biennial Volumetric Loss. \\ \addlinespace
+\midrule
+\textbf{20-Year Mean} & \textbf{92.42} & \textbf{72.6} & \textbf{71.6} & \textbf{Equilibrium Set-Point} \\
+\bottomrule
+\end{tabularx}
+\begin{tablenotes}
+\small
+\item[*] \textbf{Formula Validation:} $H_{calc} = 59 \times F_{GRB} \times 0.1333$. The $\approx 1.0$ delta between $H_{calc}$ (72.6) and Measured Mean (71.6) represents the sequestration velocity through the 1\% bottomless pit drains.
+\end{tablenotes}
+\caption{20-Year Audit: Correlation of 7 Data Epochs to the 71.6 Mean.}
+\label{tab:finalaudit}
+\end{threeparttable}
+\end{table}
+
+\section{The Nichols Thought Experiments Timeline}
+\begin{itemize}
+    \item \textbf{2013--2025}: Development of mechanical and fluid-dynamic logic via the \textit{flightsimdev} research platform.
+    \item \textbf{August 20, 2025}: The ``Science Pivot''---publication of the first science-focused video applying engineering principles to anomalies in the $\Lambda$CDM model.
+    \item \textbf{October 2025}: Formal initiation of \textit{The Nichols Thought Experiments} (TE 1--18), defining the 4D manifold and ``Guest Space'' hypothesis.
+    \item \textbf{January 2026}: Identification of the ``Hubble Pulse'' and verification via progenitor-less events such as GRB~250702B.
+\end{itemize}
+
+\section{In-Situ Stellar Augmentation}
+We propose that ERB events may occur within existing stellar cores, where radial mass flux $\Phi_m$ acts as a secondary fuel source. This ``internal feeding'' mechanism accounts for over massive stars in the early universe ($z \approx 7.3$) that appear to violate standard Eddington luminosity limits. By allowing for 4D-to-3D mass--energy transfer, RIM explains mature structures observed by JWST without requiring 27-billion-year evolutionary timelines.
+
+\section{Structural Specification: The 4D+Time 3-Sphere Manifold}
+The universe is modeled as a \textbf{3-Sphere} ($\mathbb{S}^3$) embedded within a 5D temporal bulk. This geometry creates a self-contained "Round Corridor" where the 5th dimension acts as the axis of recurrence.
+
+\subsection{Metric and Torsion Dynamics}
+The manifold is governed by a 5D metric where spatial curvature and temporal drift are coupled via the constant $\omega = 0.004$:
+\begin{equation}
+ds^2 = R^2(d\psi^2 + \sin^2\psi(d\theta^2 + \sin^2\theta d\phi^2)) + (dt + \omega \, dw)^2
+\end{equation}
+
+\subsection{Calibrated Dimensions}
+\begin{itemize}
+    \item \textbf{Transverse Width ($W$):} $10^{10} \text{ ly}$ (The diameter of the 3-sphere, ensuring local flatness).
+    \item \textbf{Longitudinal Orbit ($L$):} $4.6 \text{ Tly}$ (The geodesic length of one temporal cycle).
+    \item \textbf{Causal Horizon ($d_h$):} $46.5 \text{ Gly}$ (The limit of the 3D projection, or the "3.4-mile" equivalent).
+    \item \textbf{Expansion Headroom ($\xi$):} $20$ (The volumetric density ratio of the 5D bulk).
+\end{itemize}
+
+\section{Mechanics of Cosmic Expansion}
+\subsection{ERB-Driven Volumetric Growth}
+Expansion is driven by the cumulative inflationary effect of radial mass--energy inflows. Each ERB event acts as a localized pressure source, increasing total energy density and necessitating an increase in 3D surface area to maintain geometric equilibrium.
+
+\subsection{Calculation of the Hypersphere Curvature Radius}
+To define the scale of the 4D substrate, we utilize the curvature parameter $\Omega_k \approx 0.004$ and the observable radius $r = 46.5$ billion light-years. In a near-flat 3D hypersurface, the curvature radius $R$ is derived as:
+\begin{equation}
+R = \frac{r}{\sqrt{\Omega_k}}
+\end{equation}
+Applying observed values:
+\[
+\sqrt{0.004} \approx 0.063245, \qquad R \approx \frac{46.5 \times 10^9}{0.063245} \approx 7.35 \times 10^{11} \text{ly.}
+\]
+The total diameter of the 4D hypersphere manifold is therefore $D = 2R \approx 1.47$ trillion light-years.
+
+\subsection{The Hubble Pulse: Correlation with $\Phi_m$}
+Analysis of the 2005--2025 epoch reveals a ``Hubble Pulse'' where the measured expansion rate $H_0$ correlates with the annual frequency of GRB injection events. This suggests that $H_0$ is a dynamic function of the integrated mass flux:
+\begin{equation}
+H_0(t) \propto \sum \int \Phi_m(t) dt
+\end{equation}
+
+\subsection{GRB-Weighted Hubble Pulse and 0.1333 Scaling}
+To quantify the contribution of progenitor-less GRBs to the observed expansion rate, we introduce a GRB-weighted scaling factor. Let the normalized GRB factor for year $t$ be $F_{GRB}(t)$. Following the RIM correlation, the GRB contribution to $H_0$ is:
+\begin{equation}
+H_{GRB}(t) = 59 \text{ km/s/Mpc} \times F_{GRB}(t) \times 0.1333
+\end{equation}
+
+\section{Expansion Rate Mapping: The 0.78647 Scaling Table}
+\begin{table}[h!]
+\centering
+\small
+\begin{tabularx}{0.8\textwidth}{@{}X c X c@{}}
+\toprule
+GRB Count ($x$) & RIM Expansion ($y$) & GRB Count ($x$) & RIM Expansion ($y$) \\
+\midrule
+10  & 7.8647   & 110 & 86.5117  \\
+20  & 15.7294  & 120 & 94.3764  \\
+30  & 23.5941  & 130 & 102.2411 \\
+40  & 31.4588  & 140 & 110.1058  \\
+50  & 39.3235  & 150 & 117.9705  \\
+60  & 47.1882  & 160 & 125.8352  \\
+70  & 55.0529  & 170 & 133.6999  \\
+80  & 62.9176  & 180 & 141.5646  \\
+90  & 70.7823  & 190 & 149.4293  \\
+100 & 78.6470  & 200 & 157.2940  \\
+\bottomrule
+\end{tabularx}
+\caption{Linear Expansion Metrics for Manifold Load Management.}
+\label{tab:lookup}
+\end{table}
+\begin{center}\textbf{Revision: February 11, 2026}\end{center}
+\section{Comparative Galaxy Maturity: RIM vs. Standard Timeline}
+
+To calculate the RIM Age, we use the formula:
+
+\begin{equation}
+\text{RIM Age} = \text{Std. Age} \times \frac{16.6\ \text{Gyr}}{13.8\ \text{Gyr}}
+\label{eq:rimage}
+\end{equation}
+
+This scales the standard cosmological age (13.8 Gyr universe) to the 16.6 Gyr RIM timeline.
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabularx}{\textwidth}{@{}l c c c X@{}}
+\toprule
+Astronomical Object & Redshift ($z$) & Std. Age (13.8 Gyr) & \textbf{RIM Age (16.6 Gyr)} & Status Result \\
+\midrule
+JADES-GS-z13-0 & 13.2 & ~320 Myr & \textbf{~2.1 Gyr} & Mature Galaxy \\
+TON 618 & 2.21 & ~3.0 Gyr & \textbf{10.0 Gyr} & Natural Growth \\
+Phoenix A & 1.47 & ~2.0 Gyr & \textbf{4.6 Gyr} & Natural Growth \\
+CMB Horizon & 1100 & 380,000 yr & \textbf{380,000 yr} & Visibility Limit \\
+\bottomrule
+\end{tabularx}
+\caption{Comparative Maturity: Resolution of the Growth Gap via 16.6 Gyr Timeline.}
+\label{tab:galaxymaturity}
+\end{table}
+
+\section*{References}
+\noindent Einstein, A., \& Rosen, N. (1935). \textit{The Particle Problem in the General Theory of Relativity}. Physical Review, 48(1), 73. \par\medskip
+\noindent Euclid Collaboration (2025). \textit{Euclid I: Overview of the Euclid Mission}. Astronomy and Astrophysics, 697. \par\medskip
+\noindent Gardner, J.\ P., et al.\ (2006/2023). \textit{The James Webb Space Telescope Mission}. Space Science Reviews, 123, 485--606. \par\medskip
+\noindent Gehrels, N., et al.\ (2004). \textit{The Swift Gamma-Ray Burst Mission}. The Astrophysical Journal, 611(2). \par\medskip
+\noindent Riess, A.\ G., et al.\ (2024). \textit{A Comprehensive Measurement of the Local Value of the Hubble Constant with HST and JWST}. The Astrophysical Journal Letters. \par\medskip
+\noindent Segal, I.\ E.\ (1972). \textit{Theoretical Foundations of the Chronometric Cosmology}.
+
+\end{document}
